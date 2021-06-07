@@ -1,0 +1,7 @@
+sklearn
+pandas
+notebook
+numpy
+matplotlib
+pythainlp
+imbalance-learn
